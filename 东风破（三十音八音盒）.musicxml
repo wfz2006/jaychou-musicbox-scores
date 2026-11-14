@@ -22,14 +22,14 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P40ef794f00ab6a3cb5dfbdfb8ad3f4f5">
+    <score-part id="Pc8e4eafac31fd0800431121590b645e0">
       <part-name>旋律</part-name>
     </score-part>
-    <score-part id="P0117b3a63a08187dd1355043c952ed98">
+    <score-part id="P2dcfdb46f5c54804c12905b40d5e9c91">
       <part-name>伴奏</part-name>
     </score-part>
   </part-list>
-  <part id="P40ef794f00ab6a3cb5dfbdfb8ad3f4f5">
+  <part id="Pc8e4eafac31fd0800431121590b645e0">
     <measure number="1">
       <attributes>
         <divisions>10080</divisions>
@@ -2826,16 +2826,17 @@
       </note>
       <note>
         <rest />
-        <duration>10080</duration>
+        <duration>15120</duration>
         <type>quarter</type>
+        <dot />
       </note>
       <note>
         <pitch>
           <step>E</step>
           <octave>5</octave>
         </pitch>
-        <duration>10080</duration>
-        <type>quarter</type>
+        <duration>5040</duration>
+        <type>eighth</type>
       </note>
     </measure>
     <measure number="85">
@@ -3086,7 +3087,7 @@
       </note>
     </measure>
   </part>
-  <part id="P0117b3a63a08187dd1355043c952ed98">
+  <part id="P2dcfdb46f5c54804c12905b40d5e9c91">
     <measure number="1">
       <attributes>
         <divisions>10080</divisions>
@@ -6192,50 +6193,24 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
-        <voice>1</voice>
         <type>half</type>
       </note>
       <note>
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>20160</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <backup>
-        <duration>40320</duration>
-      </backup>
-      <note>
-        <rest />
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <rest />
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-      </note>
-      <note>
+        <chord />
         <pitch>
           <step>G</step>
           <octave>4</octave>
         </pitch>
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
+        <duration>20160</duration>
+        <type>half</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
       </note>
     </measure>
     <measure number="92">
@@ -6245,50 +6220,24 @@
           <octave>4</octave>
         </pitch>
         <duration>20160</duration>
-        <voice>1</voice>
         <type>half</type>
       </note>
       <note>
+        <chord />
         <pitch>
           <step>E</step>
-          <octave>5</octave>
-        </pitch>
-        <duration>20160</duration>
-        <voice>1</voice>
-        <type>half</type>
-      </note>
-      <backup>
-        <duration>40320</duration>
-      </backup>
-      <note>
-        <rest />
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
-          <octave>3</octave>
-        </pitch>
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <rest />
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-      </note>
-      <note>
-        <pitch>
-          <step>G</step>
           <octave>4</octave>
         </pitch>
-        <duration>10080</duration>
-        <voice>2</voice>
-        <type>quarter</type>
+        <duration>20160</duration>
+        <type>half</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
       </note>
     </measure>
   </part>
